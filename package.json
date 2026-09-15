@@ -1,0 +1,21 @@
+{
+  "name": "urban-escape",
+  "version": "1.0.0",
+  "description": "Urban Escape: Boy vs Police Runner Game with Google AdSense Integration",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "deploy": "npx netlify deploy --prod --dir=.",
+    "deploy:draft": "npx netlify deploy --dir=."
+  },
+  "keywords": [
+    "game",
+    "runner",
+    "arcade",
+    "adsense"
+  ],
+  "author": "Urban Escape",
+  "license": "MIT"
+}

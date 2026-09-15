@@ -1,0 +1,8 @@
+# Robots.txt for Urban Escape: Boy vs Police
+# Optimized for Googlebot, Bingbot, PerplexityBot, GPTBot, and Applebot
+
+User-agent: *
+Allow: /
+
+# Direct sitemap location
+Sitemap: http://localhost:3000/sitemap.xml
